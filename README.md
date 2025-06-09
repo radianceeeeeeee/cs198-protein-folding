@@ -1,3 +1,7 @@
+# Instructions
+- run main.ipynb to generate path matrics of various downhill penalties
+- run combined_penalties.ipynb to generate plots of paths
+
 # main.ipynb
 
 This notebook runs everything and it will output the results of all surfaces and their minima-minima pairs into .csv files.
@@ -27,6 +31,8 @@ This notebook contains the helper functions to plot the surfaces along with the 
 ### preprocess.ipynb
 
 This notebook contains several helper functions that are required so that the data can be easier to plug on functions.
+
+
 
 
 ### results.ipynb
